@@ -1,0 +1,12 @@
+C:\Drafts\Drafts.App\Drafts.App.Dominio\bin\Debug\net6.0\Drafts.App.Dominio.deps.json
+C:\Drafts\Drafts.App\Drafts.App.Dominio\bin\Debug\net6.0\Drafts.App.Dominio.dll
+C:\Drafts\Drafts.App\Drafts.App.Dominio\bin\Debug\net6.0\Drafts.App.Dominio.pdb
+C:\Drafts\Drafts.App\Drafts.App.Dominio\obj\Debug\net6.0\Drafts.App.Dominio.csproj.AssemblyReference.cache
+C:\Drafts\Drafts.App\Drafts.App.Dominio\obj\Debug\net6.0\Drafts.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drafts\Drafts.App\Drafts.App.Dominio\obj\Debug\net6.0\Drafts.App.Dominio.AssemblyInfoInputs.cache
+C:\Drafts\Drafts.App\Drafts.App.Dominio\obj\Debug\net6.0\Drafts.App.Dominio.AssemblyInfo.cs
+C:\Drafts\Drafts.App\Drafts.App.Dominio\obj\Debug\net6.0\Drafts.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Drafts\Drafts.App\Drafts.App.Dominio\obj\Debug\net6.0\Drafts.App.Dominio.dll
+C:\Drafts\Drafts.App\Drafts.App.Dominio\obj\Debug\net6.0\refint\Drafts.App.Dominio.dll
+C:\Drafts\Drafts.App\Drafts.App.Dominio\obj\Debug\net6.0\Drafts.App.Dominio.pdb
+C:\Drafts\Drafts.App\Drafts.App.Dominio\obj\Debug\net6.0\ref\Drafts.App.Dominio.dll
