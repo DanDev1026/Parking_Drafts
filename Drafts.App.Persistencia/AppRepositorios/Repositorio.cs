@@ -21,7 +21,7 @@ namespace Drafts.App.Persistencia
         // Eliminar
         void IRepositorio.DeleteCliente (int id_clientes) {
 
-            var encontrarCliente = appcox.Clientes.FirstOrDefault (p=> p.Id_Clientes == id_clientes);
+            var encontrarCliente = appcox.Clientes.FirstOrDefault (p=> p.Id == id_clientes);
 
             if (encontrarCliente == null){
                 return;
@@ -38,13 +38,13 @@ namespace Drafts.App.Persistencia
         //llamar a una persona en especifico
         Cliente IRepositorio.GetCliente(int id_clientes){
 
-            return appcox.Clientes.FirstOrDefault (p => p.Id_Clientes == id_clientes);
+            return appcox.Clientes.FirstOrDefault (p => p.Id == id_clientes);
         }
         //Actualizar 
        
         Cliente IRepositorio.UpdateCliente(Drafts.App.Dominio.Cliente cliente) {
 
-            var ClienteEncontrado = appcox.Clientes.FirstOrDefault (p => p.Id_Clientes == cliente.Id_Clientes);
+            var ClienteEncontrado = appcox.Clientes.FirstOrDefault (p => p.Id== cliente.Id);
 
             if(ClienteEncontrado != null){
                 ClienteEncontrado.Nombre_Cliente = cliente.Nombre_Cliente;

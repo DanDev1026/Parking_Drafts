@@ -4,7 +4,7 @@ namespace Drafts.App.Dominio
 {
     public class Cliente
     {
-        public int Id_Clientes { get; set; }
+        public int Id { get; set; }
         public string Usuario_Frecuente { get; set; }
         public string Usuario_Nuevo { get; set; }
         public string Usuario_Normal { get; set; }
