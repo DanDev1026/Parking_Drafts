@@ -18,9 +18,9 @@ namespace Drafts.App.Consola
             var cliente = new Cliente {
                 Usuario_Frecuente= "Si",
                 
-                Usuario_Nuevo = "Si",
-                Usuario_Normal = "No",
-                Nombre_Cliente = "Charly",
+                Usuario_Nuevo = "No",
+                Usuario_Normal = "Si",
+                Nombre_Cliente = "Juan",
                 Telefono = "31569322",
                 
 
