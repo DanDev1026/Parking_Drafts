@@ -1,0 +1,27 @@
+body{background-color:chartreuse;
+    background-image: url(parck.png);
+
+     }
+    p{font-family: monospace;
+        font-size: 40px;
+    }
+    .Negro{
+        color:blanchedalmond;
+        font-family: fantasy;
+        font-size: 50px;
+    }
+    #paraDiv{
+        height: 50px;
+        background-color: azure;
+        color:black;
+        font-size: 35px;
+        font-family: sans-serif;
+        text-align: left;
+    }
+    h1, h2, h3, h4{
+        font-family: sans-serif;
+        font-size: 35px;
+        color: black;
+        text-align: center;
+    }
+  

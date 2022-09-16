@@ -1,0 +1,66 @@
+body{
+    background-image:url(Fondo.png);
+}
+h1{
+    text-align: center;
+    color:blue;
+    font-size: 50px;
+    
+}
+
+.titulo_2{
+    color:black;
+    text-align: center;
+    font-size: 25px;
+}
+
+#id_titulo{
+    color: blue;
+}
+
+#txt_nombre{
+    margin-left: 15px;
+    
+}
+#txt_Apellido{
+    margin-left: 11px;
+}
+
+#txt_email{
+    margin-left: 35px;
+}
+
+#txt_confirmaremail{
+    margin-left: 35px;
+}
+
+#txt_usuario{
+    margin-left: 35px;
+}
+
+#txt_contraseña{
+    margin-left: 65px;
+}
+
+#txt_confirmarcontraseña{
+    margin-left: 5px;
+}
+
+#principal{
+    text-align: center;
+}
+
+#botoncancelar{
+    border-radius: 20px;
+    color:white;
+    background-color: red;
+    border: none;
+}
+
+#botonguardar{
+    border-radius: 20px;
+    color: white;
+    background-color: darkblue;
+    border: none;
+
+}
