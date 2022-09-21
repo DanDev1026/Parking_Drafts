@@ -19,9 +19,9 @@ namespace Drafts.App.Consola
                 Usuario_Frecuente= "Si",
                 
                 Usuario_Nuevo = "No",
-                Usuario_Normal = "Si",
-                Nombre_Cliente = "Juan",
-                Telefono = "31569322",
+                Usuario_Normal = "No",
+                Nombre_Cliente = "Yesid",
+                Telefono = "303256485",
                 
 
 
