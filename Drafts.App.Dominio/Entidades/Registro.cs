@@ -4,7 +4,7 @@ namespace Drafts.App.Dominio
 {
     public class Registro
     {
-        public int Id_Usuario { get; set; }
+        public int Id { get; set; }
         public string Hora_Entrada { get; set; }
         public string Fecha_Entrada { get; set;}
         public string Numero_Puesto { get ; set; }
