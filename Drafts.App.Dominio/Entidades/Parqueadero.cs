@@ -2,7 +2,7 @@ using System;
 
 namespace Drafts.App.Dominio
 {
-    public class Vigilante
+    public class Parqueadero
     {
         public int Id { get; set; }
         public string Pisos { get; set; }
