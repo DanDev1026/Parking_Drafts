@@ -5,23 +5,23 @@ using Drafts.App.Dominio;
 
 namespace Drafts.App.Persistencia
 {
-    public class Repositorio : IRepositorio
+    public class RepositorioCliente : IRepositorioCliente
     {
         private readonly AppContext appcox;
-        public Repositorio(AppContext appcontext)
+        public RepositorioCliente(AppContext appcontext)
         {
             appcox = appcontext;
         }
-        Cliente IRepositorio.AddCliente (Drafts.App.Dominio.Cliente cliente){
+        Cliente IRepositorioCliente.AddCliente (Drafts.App.Dominio.Cliente cliente){
 
             var agregarCliente = appcox.Clientes.Add(cliente);
             appcox.SaveChanges();
             return agregarCliente.Entity;
         }
         // Eliminar
-        void IRepositorio.DeleteCliente (int id_clientes) {
+        void IRepositorioCliente.DeleteCliente (int id_clientes) {
 
-            var encontrarCliente = appcox.Clientes.FirstOrDefault (p=> p.Id_Clientes == id_clientes);
+            var encontrarCliente = appcox.Clientes.FirstOrDefault (p=> p.Id == id_clientes);
 
             if (encontrarCliente == null){
                 return;
@@ -31,20 +31,20 @@ namespace Drafts.App.Persistencia
 
         }
         ////llamar a todos los datos de la tabla 
-        IEnumerable<Cliente> IRepositorio.GetAllCliente(){
+        IEnumerable<Cliente> IRepositorioCliente.GetAllCliente(){
             return appcox.Clientes;
         }
 
         //llamar a una persona en especifico
-        Cliente IRepositorio.GetCliente(int id_clientes){
+        Cliente IRepositorioCliente.GetCliente(int id_clientes){
 
-            return appcox.Clientes.FirstOrDefault (p => p.Id_Clientes == id_clientes);
+            return appcox.Clientes.FirstOrDefault (p => p.Id == id_clientes);
         }
         //Actualizar 
        
-        Cliente IRepositorio.UpdateCliente(Drafts.App.Dominio.Cliente cliente) {
+        Cliente IRepositorioCliente.UpdateCliente(Drafts.App.Dominio.Cliente cliente) {
 
-            var ClienteEncontrado = appcox.Clientes.FirstOrDefault (p => p.Id_Clientes == cliente.Id_Clientes);
+            var ClienteEncontrado = appcox.Clientes.FirstOrDefault (p => p.Id== cliente.Id);
 
             if(ClienteEncontrado != null){
                 ClienteEncontrado.Nombre_Cliente = cliente.Nombre_Cliente;

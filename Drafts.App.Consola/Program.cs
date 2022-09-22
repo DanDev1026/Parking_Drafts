@@ -6,23 +6,23 @@ namespace Drafts.App.Consola
 {
     class Program
     {
-        private static IRepositorio _repoClientes = new Repositorio(new Drafts.App.Persistencia.AppContext());
+        private static IRepositorioCliente _repoClientes = new RepositorioCliente(new Drafts.App.Persistencia.AppContext());
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World");
-            //AddPerson();
+            Console.WriteLine("Hello World");
+           // AddCliente();
+            
+            buscarCliente(1);
 
-            //buscarCliente(1);
         }
         private static void AddCliente(){
             var cliente = new Cliente {
-                Usuario_Frecuente= "No",
+                Usuario_Frecuente= "Si",
                 
                 Usuario_Nuevo = "Si",
-                Usuario_Normal = "Si",
-                Nombre_Cliente = "Daniela",
-                Telefono = 30256,
-                
+                Usuario_Normal = "No",
+                Nombre_Cliente = "Andres",
+                Telefono = "3032558885",
                 
 
 
@@ -36,8 +36,8 @@ namespace Drafts.App.Consola
         private static void buscarCliente (int Id_Clientes){
             var cliente = _repoClientes.GetCliente(Id_Clientes);
 
-            if (person != null){
-                Console.WriteLine("Usuario Frecuente: "+cliente.Usuario_Frecuente+
+            if (cliente != null){
+                Console.WriteLine ( "Usuario Frecuente: "+cliente.Usuario_Frecuente+
                 "\n Usuario nuevo: "+cliente.Usuario_Nuevo+"/n Usuario Normal: "+cliente.Usuario_Normal+
                 "\n Nombre del Cliente: "+cliente.Nombre_Cliente+
                 "\n Telefono: "+ cliente.Telefono

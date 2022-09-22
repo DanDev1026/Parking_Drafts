@@ -3,7 +3,7 @@ using Drafts.App.Dominio;
  
 namespace Drafts.App.Persistencia
 {
-    public interface IRepositorio{
+    public interface IRepositorioCliente{
  
         IEnumerable<Cliente> GetAllCliente();
         Cliente AddCliente(Cliente cliente);
