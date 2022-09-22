@@ -6,22 +6,23 @@ namespace Drafts.App.Consola
 {
     class Program
     {
-        private static IRepositorio _repoClientes = new Repositorio(new Drafts.App.Persistencia.AppContext());
+        private static IRepositorioCliente _repoClientes = new RepositorioCliente(new Drafts.App.Persistencia.AppContext());
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            AddCliente();
+           // AddCliente();
+            
+            buscarCliente(1);
 
-            //buscarCliente(1);
         }
         private static void AddCliente(){
             var cliente = new Cliente {
                 Usuario_Frecuente= "Si",
                 
-                Usuario_Nuevo = "No",
+                Usuario_Nuevo = "Si",
                 Usuario_Normal = "No",
-                Nombre_Cliente = "Yesid",
-                Telefono = "303256485",
+                Nombre_Cliente = "Andres",
+                Telefono = "3032558885",
                 
 
 
