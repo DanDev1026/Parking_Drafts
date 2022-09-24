@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "goPUd98Yf4bN8RGByYO5aKM/sqBE8KyLE7BKNYqocpIkzrloz/Rys4VsTTVW0SJJ52xrAX4rwblMSeG+xPxTTQ==",
+  "dgSpecHash": "egjx1dtb0+SxTgTTo59FcMskSd8Gvw3/E+dWskGT1KD9DyZ0CiyyLRRevFpBZcbAJVo4a50VXqxbvLZD14394Q==",
   "success": true,
-  "projectFilePath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj",
+  "projectFilePath": "C:\\Drafts\\Drafts.App\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -52,7 +52,7 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché D:\\Repositorio\\Parking_Drafts\\Drafts.App.Frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+      "message": "Problema al leer el archivo de caché C:\\Drafts\\Drafts.App\\Drafts.App.Frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
 }
