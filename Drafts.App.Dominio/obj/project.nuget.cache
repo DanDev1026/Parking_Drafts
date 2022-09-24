@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "s/dty96s0BDVO3XgPcwqJ/CY0VT0oS0j7hPALJ8T8faFMiHQSzbytPC1+KGgoTzHesYFk+T/L8YZW9INj70MKA==",
+=======
+  "dgSpecHash": "P/W8hgUIsY6yPx8P34L71+xSEfrIewdNtDeZwUptwVnP76ww9QCe1N1GcJbKT0imU2JQg9lGJ+dshVo+cAm/9A==",
+>>>>>>> ad79959c34c2d80700c14114ff034b5a0a856d72
   "success": true,
-  "projectFilePath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj",
+  "projectFilePath": "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
