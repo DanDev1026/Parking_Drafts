@@ -8,13 +8,14 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Drafts.App.Frontend
 build_property.RootNamespace = Drafts.App.Frontend
-build_property.ProjectDir = C:\Drafts\Drafts.App\Drafts.App.Frontend\
+build_property.ProjectDir = D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Drafts\Drafts.App\Drafts.App.Frontend
+build_property.MSBuildProjectDirectory = D:\Repositorio\Parking_Drafts\Drafts.App.Frontend
 build_property._RazorSourceGeneratorDebug = 
 
+<<<<<<< HEAD
 [C:/Drafts/Drafts.App/Drafts.App.Frontend/Pages/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -24,29 +25,32 @@ build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Drafts/Drafts.App/Drafts.App.Frontend/Pages/Error.cshtml]
+=======
+[D:/Repositorio/Parking_Drafts/Drafts.App.Frontend/Pages/Error.cshtml]
+>>>>>>> b6d73354a3c8996933ea5e7faa1f0d0dd79194d9
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Drafts/Drafts.App/Drafts.App.Frontend/Pages/Index.cshtml]
+[D:/Repositorio/Parking_Drafts/Drafts.App.Frontend/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Drafts/Drafts.App/Drafts.App.Frontend/Pages/Privacy.cshtml]
+[D:/Repositorio/Parking_Drafts/Drafts.App.Frontend/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Drafts/Drafts.App/Drafts.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Repositorio/Parking_Drafts/Drafts.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Drafts/Drafts.App/Drafts.App.Frontend/Pages/_ViewImports.cshtml]
+[D:/Repositorio/Parking_Drafts/Drafts.App.Frontend/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Drafts/Drafts.App/Drafts.App.Frontend/Pages/_ViewStart.cshtml]
+[D:/Repositorio/Parking_Drafts/Drafts.App.Frontend/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Drafts/Drafts.App/Drafts.App.Frontend/Pages/Shared/_Layout.cshtml]
+[D:/Repositorio/Parking_Drafts/Drafts.App.Frontend/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-000ansgwkx
