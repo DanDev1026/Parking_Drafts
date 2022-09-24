@@ -24,6 +24,7 @@ C:\Drafts\Drafts.App\Drafts.App.Frontend\obj\Debug\net6.0\refint\Drafts.App.Fron
 C:\Drafts\Drafts.App\Drafts.App.Frontend\obj\Debug\net6.0\Drafts.App.Frontend.pdb
 C:\Drafts\Drafts.App\Drafts.App.Frontend\obj\Debug\net6.0\Drafts.App.Frontend.genruntimeconfig.cache
 C:\Drafts\Drafts.App\Drafts.App.Frontend\obj\Debug\net6.0\ref\Drafts.App.Frontend.dll
+<<<<<<< HEAD
 C:\Drafts\Drafts.App\Drafts.App.Frontend\bin\Debug\net6.0\Humanizer.dll
 C:\Drafts\Drafts.App\Drafts.App.Frontend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Drafts\Drafts.App\Drafts.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -63,3 +64,31 @@ C:\Drafts\Drafts.App\Drafts.App.Frontend\bin\Debug\net6.0\Drafts.App.Persistenci
 C:\Drafts\Drafts.App\Drafts.App.Frontend\bin\Debug\net6.0\Drafts.App.Persistencia.pdb
 C:\Drafts\Drafts.App\Drafts.App.Frontend\bin\Debug\net6.0\Drafts.App.Dominio.pdb
 C:\Drafts\Drafts.App\Drafts.App.Frontend\obj\Debug\net6.0\Drafts.App.Frontend.csproj.CopyComplete
+=======
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\bin\Debug\net6.0\appsettings.Development.json
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\bin\Debug\net6.0\appsettings.json
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\bin\Debug\net6.0\Drafts.App.Frontend.staticwebassets.runtime.json
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\bin\Debug\net6.0\Drafts.App.Frontend.exe
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\bin\Debug\net6.0\Drafts.App.Frontend.deps.json
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\bin\Debug\net6.0\Drafts.App.Frontend.runtimeconfig.json
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\bin\Debug\net6.0\Drafts.App.Frontend.dll
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\bin\Debug\net6.0\Drafts.App.Frontend.pdb
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\Drafts.App.Frontend.csproj.AssemblyReference.cache
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\Drafts.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\Drafts.App.Frontend.AssemblyInfoInputs.cache
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\Drafts.App.Frontend.AssemblyInfo.cs
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\Drafts.App.Frontend.csproj.CoreCompileInputs.cache
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\Drafts.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\Drafts.App.Frontend.RazorAssemblyInfo.cache
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\Drafts.App.Frontend.RazorAssemblyInfo.cs
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\staticwebassets.build.json
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\staticwebassets.development.json
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\scopedcss\bundle\Drafts.App.Frontend.styles.css
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\scopedcss\projectbundle\Drafts.App.Frontend.bundle.scp.css
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\Drafts.App.Frontend.dll
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\refint\Drafts.App.Frontend.dll
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\Drafts.App.Frontend.pdb
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\Drafts.App.Frontend.genruntimeconfig.cache
+D:\Repositorio\Parking_Drafts\Drafts.App.Frontend\obj\Debug\net6.0\ref\Drafts.App.Frontend.dll
+>>>>>>> 22d4f52031ab022594e6455a529a6b8e36790d1c

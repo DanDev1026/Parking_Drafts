@@ -10,3 +10,15 @@ C:\Drafts\Drafts.App\Drafts.App.Dominio\obj\Debug\net6.0\Drafts.App.Dominio.dll
 C:\Drafts\Drafts.App\Drafts.App.Dominio\obj\Debug\net6.0\refint\Drafts.App.Dominio.dll
 C:\Drafts\Drafts.App\Drafts.App.Dominio\obj\Debug\net6.0\Drafts.App.Dominio.pdb
 C:\Drafts\Drafts.App\Drafts.App.Dominio\obj\Debug\net6.0\ref\Drafts.App.Dominio.dll
+D:\Repositorio\Parking_Drafts\Drafts.App.Dominio\bin\Debug\net6.0\Drafts.App.Dominio.deps.json
+D:\Repositorio\Parking_Drafts\Drafts.App.Dominio\bin\Debug\net6.0\Drafts.App.Dominio.dll
+D:\Repositorio\Parking_Drafts\Drafts.App.Dominio\bin\Debug\net6.0\Drafts.App.Dominio.pdb
+D:\Repositorio\Parking_Drafts\Drafts.App.Dominio\obj\Debug\net6.0\Drafts.App.Dominio.csproj.AssemblyReference.cache
+D:\Repositorio\Parking_Drafts\Drafts.App.Dominio\obj\Debug\net6.0\Drafts.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\Parking_Drafts\Drafts.App.Dominio\obj\Debug\net6.0\Drafts.App.Dominio.AssemblyInfoInputs.cache
+D:\Repositorio\Parking_Drafts\Drafts.App.Dominio\obj\Debug\net6.0\Drafts.App.Dominio.AssemblyInfo.cs
+D:\Repositorio\Parking_Drafts\Drafts.App.Dominio\obj\Debug\net6.0\Drafts.App.Dominio.csproj.CoreCompileInputs.cache
+D:\Repositorio\Parking_Drafts\Drafts.App.Dominio\obj\Debug\net6.0\Drafts.App.Dominio.dll
+D:\Repositorio\Parking_Drafts\Drafts.App.Dominio\obj\Debug\net6.0\refint\Drafts.App.Dominio.dll
+D:\Repositorio\Parking_Drafts\Drafts.App.Dominio\obj\Debug\net6.0\Drafts.App.Dominio.pdb
+D:\Repositorio\Parking_Drafts\Drafts.App.Dominio\obj\Debug\net6.0\ref\Drafts.App.Dominio.dll

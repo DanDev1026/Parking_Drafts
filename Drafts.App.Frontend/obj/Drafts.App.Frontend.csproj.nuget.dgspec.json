@@ -1,9 +1,10 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Drafts\\Drafts.App\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj": {}
+    "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj": {}
   },
   "projects": {
+<<<<<<< HEAD
     "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -12,6 +13,16 @@
         "projectPath": "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\obj\\",
+=======
+    "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj",
+        "projectName": "Drafts.App.Frontend",
+        "projectPath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Frontend\\obj\\",
+>>>>>>> 22d4f52031ab022594e6455a529a6b8e36790d1c
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,7 +54,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -122,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
