@@ -12,7 +12,237 @@ html {
   position: relative;
   min-height: 100%;
 }
-
 body {
-  margin-bottom: 60px;
+  background: #242B6E;
+}
+
+.logo {
+  background-size: cover;
+  background-image: url(img/PrevLogoDrafts_FuenteADEFT.png);
+  position: absolute;
+  width: 280px;
+  height: 125px;
+  left: 150px;
+  top: 65px;
+}
+.titulo {
+  background-image: url(img/LetraParqueaAlInstante_FuenteEASTONE.png);
+  background-size: cover;
+  position: absolute;
+  width: 350px;
+  height: 60px;
+  left: 560px;
+  top: 90px;
+}
+.lupa {
+  background-size: cover;
+  background-image: url(img/lupa2.png);
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  left: 1040px;
+  top: 210px;
+}
+.barra {
+  background-image:url(img/BarrasLaterales.png);
+  position: absolute;
+  background-size: cover;
+  width: 50px;
+  height: 50px;
+  left: 40px;
+  top: 200px;
+}
+.compartir {
+  background-image:url(img/IconoCompartirWhite.png);
+  position: absolute;
+  background-size: cover;
+  width: 20px;
+  height: 20px;
+  left: 1050px;
+  top: 150px;
+}  
+.facebook {
+  background-image:url(img/IconoFacebookWhite.png);
+  background-size: cover;
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  left: 1075px;
+  top: 145px;
+} 
+.instagram {
+  background-image:url(img/IconoInstagramWhite.png);
+  background-size: cover;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 1110px;
+  top: 150px;
+} 
+.señalp {
+  background-image:url(img/parkingSignal.png);
+  background-size: cover;
+  position: absolute;
+  width: 126px;
+  height: 128px;
+  left: 1225px;
+  top: 250px;
+}
+h2 {
+  position: absolute;
+  left: 1080px;
+  top: 75px;
+  font-family: "ABeeZee";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 35px;
+  text-align: center;
+  color: #ffffff;
+}
+.login [type="text"] {
+  position: absolute;
+  width: 150px;
+  height: 25px;
+  left: 1140px;
+  top: 70px;
+  color: #ffffff;
+}
+.login [type="password"] {
+  position: absolute;
+  width: 150px;
+  height: 25px;
+  left: 1140px;
+  top: 100px;
+  color: #ffffff;
+}  
+.login [type="submit"] {
+  position: absolute;
+  font-family: "Swis721_hv_bt";
+  background:#2184E8;
+  border: none;
+  color: #fff;
+  left: 1140px;
+  top: 130px;
+  
+}
+.login [type="submit"]:hover {
+  cursor: pointer;
+  background: white;
+  color: #000;
+}
+.login a {
+  position: absolute;
+  left: 1140px;
+  top: 160px;
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 20px;
+  color: white;
+}
+
+.login a:hover {
+  color:darkgrey;
+
+}
+.reservar{
+  background: #fff;
+  position: absolute;
+  width: 1364px;
+  height: 50px;
+  left: 0px;
+  top: 200px;
+  text-align: center;
+}
+.reservar .HE {
+  font-family:'Swis721_hv_bt';
+  position: absolute;
+  width: 50px;
+  height: 25px;
+  left: 125px;
+  top: 0px;
+  color: #000000;
+}
+.reservar .HE [type="time"] {
+  position: absolute;
+  width: 120px;
+  height: 25px;
+  left: 70px;
+  top: 10px;
+  background: #CCCBCB;
+}
+.reservar .HS {
+  font-family:'Swis721_hv_bt';
+  position: absolute;
+  width: 50px;
+  height: 25px;
+  left: 340px;
+  top: 0px;
+  color: #000000;
+}
+.reservar .HS [type="time"] {
+  position: absolute;
+  width: 120px;
+  height: 25px;
+  left: 70px;
+  top: 10px;
+  background: #CCCBCB;
+}
+.reservar .FE {
+  font-family:'Swis721_hv_bt';
+  position: absolute;
+  width: 50px;
+  height: 25px;
+  left: 560px;
+  top: 0px;
+  color: #000000;
+}
+.reservar .FE [type="date"] {
+  position: absolute;
+  width: 120px;
+  height: 25px;
+  left: 70px;
+  top: 10px;
+  background: #CCCBCB;
+}
+.reservar .FS {
+  font-family:'Swis721_hv_bt';
+  position: absolute;
+  width: 50px;
+  height: 25px;
+  left: 780px;
+  top: 0px;
+  color: #000000;
+}
+.reservar .FS [type="date"] {
+  position: absolute;
+  width: 120px;
+  height: 25px;
+  left: 70px;
+  top: 10px;
+  background: #CCCBCB;
+}
+.reservar [type="submit"] {
+  position: absolute;
+  width: 180px;
+  height: 29px;
+  left: 1120px;
+  top: 10px;
+  background:black;
+  color: #fff;
+}
+.reservar [type="submit"]:hover {
+  cursor: pointer;
+  background:#ffffff;
+  color:black;
+}  
+
+.imagenfondo{
+  background-image: url(img/ParqueoCarroRojo.jpg);
+  position: absolute;
+  background-size: cover;
+  width: 1364px;
+  height: 375px;
+  left: 0px;
+  top: 250px;
 }

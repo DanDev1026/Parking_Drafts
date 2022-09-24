@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
+    ".NETCoreApp,Version=v6.0": {
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
@@ -1873,7 +1873,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net6.0": [
+    ".NETCoreApp,Version=v6.0": [
       "Drafts.App.Dominio >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.9",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.9",
@@ -1887,11 +1887,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Drafts\\Drafts.App\\Drafts.App.Persistencia\\Drafts.App.Persistencia.csproj",
+      "projectUniqueName": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Persistencia\\Drafts.App.Persistencia.csproj",
       "projectName": "Drafts.App.Persistencia",
-      "projectPath": "C:\\Drafts\\Drafts.App\\Drafts.App.Persistencia\\Drafts.App.Persistencia.csproj",
+      "projectPath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Persistencia\\Drafts.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Drafts\\Drafts.App\\Drafts.App.Persistencia\\obj\\",
+      "outputPath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1904,10 +1904,9 @@
       },
       "frameworks": {
         "net6.0": {
-          "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj": {
-              "projectPath": "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj"
+            "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj": {
+              "projectPath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj"
             }
           }
         }
@@ -1920,7 +1919,6 @@
     },
     "frameworks": {
       "net6.0": {
-        "targetAlias": "net6.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -1943,22 +1941,7 @@
             "version": "[6.0.9, )"
           }
         },
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
       }
     }
   }
