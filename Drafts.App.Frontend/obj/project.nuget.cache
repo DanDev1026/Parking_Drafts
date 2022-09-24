@@ -1,6 +1,5 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "egjx1dtb0+SxTgTTo59FcMskSd8Gvw3/E+dWskGT1KD9DyZ0CiyyLRRevFpBZcbAJVo4a50VXqxbvLZD14394Q==",
   "success": true,
   "projectFilePath": "C:\\Drafts\\Drafts.App\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj",
@@ -48,11 +47,12 @@
     "C:\\Users\\User\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-=======
-  "dgSpecHash": "9layduzotwZUsMf8pNQZDNOOcoIlQpyRLkR0RuYqVmrWAg68yui7RWzhbDRK7CTBxj0v+5H5EKLvD/hMwAp5MA==",
-  "success": true,
-  "projectFilePath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj",
-  "expectedPackageFiles": [],
->>>>>>> 22d4f52031ab022594e6455a529a6b8e36790d1c
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Drafts\\Drafts.App\\Drafts.App.Frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
