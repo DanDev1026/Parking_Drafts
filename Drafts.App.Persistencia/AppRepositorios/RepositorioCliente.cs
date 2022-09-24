@@ -8,6 +8,10 @@ namespace Drafts.App.Persistencia
     public class RepositorioCliente : IRepositorioCliente
     {
         private readonly AppContext appcox;
+        public RepositorioCliente()
+        {
+           
+        }
         public RepositorioCliente(AppContext appcontext)
         {
             appcox = appcontext;

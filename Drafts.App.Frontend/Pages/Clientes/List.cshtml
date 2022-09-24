@@ -1,0 +1,39 @@
+﻿@page
+@model Drafts.App.Frontend.Pages.ListModel
+@{
+}
+<h1>Lista de Clientes</h1>
+<a asp-page=".\Edit" class="btn btn-primary">Adicionar Cliente</a>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Usuario_Frecuente</th>
+            <th>Usuario_Nuevo</th>
+            <th>Usuario_Normal</th>
+            <th>Nombre_Cliente</th>
+            <th>Telefono</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cliente in Model.Clientes)
+        {
+            <tr>
+                <td>@cliente.Id</td>
+                <td>@cliente.Usuario_Frecuente</td>
+                <td>@cliente.Usuario_Nuevo</td>
+                <td>@cliente.Usuario_Normal</td>
+                <td>@cliente.Nombre_Cliente</td>
+                <td>@cliente.Telefono</td>
+                
+                <td>
+                    <a class="btn btn-outline-success table-btn" asp-page="./Edit"
+                    asp-route-clienteId="@cliente.Id">
+                        <i class="fa-regular fa-pen-to-square"></i>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

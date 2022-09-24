@@ -1,0 +1,34 @@
+﻿@page
+@model Drafts.App.Frontend.Pages.EditModel
+@{
+    int clienteId = Model.cliente.Id;
+}
+<h2>Página Editar Cliente</h2>
+<form method="post">
+    <input type="hidden" asp-for="cliente.Id" />
+    <div class="form-group">
+        <label asp-for="cliente.Usuario_Frecuente"></label>
+        <input maxlength="50" asp-for="cliente.Usuario_Frecuente" class="form-control">
+        
+    </div>
+    <div class="form-group">
+        <label asp-for="cliente.Usuario_Nuevo"></label>
+        <input maxlength="50" asp-for="cliente.Usuario_Nuevo" class="form-control">
+        
+    </div>
+    <div class="form-group">
+        <label asp-for="cliente.Usuario_Normal"></label>
+        <input maxlength="50" asp-for="cliente.Usuario_Normal" class="form-control">
+        
+    </div>
+    <div class="form-group">
+        <label asp-for="cliente.Nombre_Cliente"></label>
+        <input maxlength="50" asp-for="cliente.Nombre_Cliente" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="cliente.Telefono"></label>
+        <input maxlength="50" asp-for="cliente.Telefono" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-outline-primary">Grabar</button>
+</form>
+<a asp-page="./List" class="btn-default">Menú Principal</a>
