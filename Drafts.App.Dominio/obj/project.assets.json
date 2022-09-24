@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v6.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v6.0": []
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\User\\.nuget\\packages\\": {}
@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj",
+      "projectUniqueName": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj",
       "projectName": "Drafts.App.Dominio",
-      "projectPath": "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj",
+      "projectPath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\obj\\",
+      "outputPath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -30,6 +30,7 @@
       },
       "frameworks": {
         "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -41,9 +42,6 @@
     },
     "frameworks": {
       "net6.0": {
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
-=======
         "targetAlias": "net6.0",
         "imports": [
           "net461",
@@ -51,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,9 +59,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
->>>>>>> ad79959c34c2d80700c14114ff034b5a0a856d72
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché D:\\Repositorio\\Parking_Drafts\\Drafts.App.Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
