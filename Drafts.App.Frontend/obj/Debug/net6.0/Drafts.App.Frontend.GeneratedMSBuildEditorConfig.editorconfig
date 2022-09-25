@@ -15,23 +15,15 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Drafts\Drafts.App\Drafts.App.Frontend
 build_property._RazorSourceGeneratorDebug = 
 
-<<<<<<< HEAD
 [C:/Drafts/Drafts.App/Drafts.App.Frontend/Pages/Clientes/Edit.cshtml]
-=======
-[D:/Repositorio/Parking_Drafts/Drafts.App.Frontend/Pages/Clientes/Edit.cshtml]
->>>>>>> dc65e883566b3c264da82ee2c70bd72c7bd8b514
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Repositorio/Parking_Drafts/Drafts.App.Frontend/Pages/Clientes/List.cshtml]
+[C:/Drafts/Drafts.App/Drafts.App.Frontend/Pages/Clientes/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-<<<<<<< HEAD
 [C:/Drafts/Drafts.App/Drafts.App.Frontend/Pages/Error.cshtml]
-=======
-[D:/Repositorio/Parking_Drafts/Drafts.App.Frontend/Pages/Error.cshtml]
->>>>>>> dc65e883566b3c264da82ee2c70bd72c7bd8b514
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
