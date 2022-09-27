@@ -51,7 +51,11 @@ namespace Drafts.App.Persistencia
             var ClienteEncontrado = appcox.Clientes.FirstOrDefault (p => p.Id== cliente.Id);
 
             if(ClienteEncontrado != null){
+                ClienteEncontrado.Usuario_Frecuente = cliente.Usuario_Frecuente;
+                ClienteEncontrado.Usuario_Nuevo = cliente.Usuario_Nuevo;
+                ClienteEncontrado.Usuario_Normal = cliente.Usuario_Normal;
                 ClienteEncontrado.Nombre_Cliente = cliente.Nombre_Cliente;
+                ClienteEncontrado.Telefono = cliente.Telefono;
                 appcox.SaveChanges();
             }
             return ClienteEncontrado;

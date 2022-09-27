@@ -4,6 +4,7 @@
     int clienteId = Model.cliente.Id;
 }
 <h2>Página Editar Cliente</h2>
+<br>
 <form method="post">
     <input type="hidden" asp-for="cliente.Id" />
     <div class="form-group">
@@ -29,6 +30,8 @@
         <label asp-for="cliente.Telefono"></label>
         <input maxlength="50" asp-for="cliente.Telefono" class="form-control">
     </div>
-    <button type="submit" class="btn btn-outline-primary">Grabar</button>
+    <button type="submit" class="btn btn-outline-primary">
+    <i class="fa-solid fa-pen-nib"></i>
+    Grabar</button>
 </form>
 <a asp-page="./List" class="btn-default">Menú Principal</a>
