@@ -1,18 +1,18 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "DRAFTS Parking";
+    ViewData["Title"] = "DRAFTS PARKING";
 }
 <div class="Menu">
     <div class="imagenfondo"></div>
     <h2>login</h2>
 </div>
-<form>
+<form name="frmLogin" action=".\Clientes\List">
     <div class="login">
-        <input type="text" placeholder="*Usuario" /><br />
-        <input type="password" placeholder="*Password" /><br />
-        <input type="submit" value="Iniciar Sesion" /><br />
-        <a asp-page="./List" href="#">*Registrate</a>
+        <input type="text"  name="txtusuario" placeholder="*Usuario" /><br />
+        <input type="password" name="txtpass" placeholder="*Password" /><br />
+        <input type="submit" value="Iniciar Sesion" name="accion" onclick="return validacampos();" /><br />
+        <a href="#">*Registrate</a>
     </div>
 </form>
 <div class="reservar">
