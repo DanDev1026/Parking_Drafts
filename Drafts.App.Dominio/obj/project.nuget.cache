@@ -1,12 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "iN6PqzWvzMX175t6wp7CPtS71ADWNsL1PNL0QUfwifppaWilXbXQ15ZvqX9Ybax2bu2LMg6EdxGLTfwDhdmG5g==",
-=======
-  "dgSpecHash": "P/W8hgUIsY6yPx8P34L71+xSEfrIewdNtDeZwUptwVnP76ww9QCe1N1GcJbKT0imU2JQg9lGJ+dshVo+cAm/9A==",
->>>>>>> 8dce2042f8f69a5cba6caebbc7497cb8dcf4fdca
   "success": true,
-  "projectFilePath": "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj",
+  "projectFilePath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché D:\\Repositorio\\Parking_Drafts\\Drafts.App.Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
