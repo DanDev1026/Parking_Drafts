@@ -16,6 +16,7 @@ namespace Drafts.App.Frontend.Pages
             this.repositorio = new RepositorioCliente(new Drafts.App.Persistencia.AppContext());
         }
 
+        
         public IActionResult OnGet(int? clienteId)
         {
             if (clienteId.HasValue)

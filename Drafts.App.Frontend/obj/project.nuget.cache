@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "W+rspwAfHn4tic+B3uL334UAd6nsJjt1g9qPTgFzM2c7w0w4w4YMpqYl6cUzZtZRuafBytSMXQApfV3+uRXn5g==",
+=======
+  "dgSpecHash": "QZwKcrcqw1eVu6hVstOTWcWLZUYjj5WeOoXRso74itjySo/LcujmxohOdfpdwH3u8IbxkHyivwQDRaeXNvz9Zw==",
+>>>>>>> 8dce2042f8f69a5cba6caebbc7497cb8dcf4fdca
   "success": true,
-  "projectFilePath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj",
+  "projectFilePath": "C:\\Drafts\\Drafts.App\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
