@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ezYqcZNTQ356hNfSi6ZYJBH1t4iQRCvJYJdCrtxg4ZA5cV5PyIzPFjVBW05Jl5MuQ/LarUL/5OEBoXAfr/1avw==",
+  "dgSpecHash": "9hI2D9wIbgQ62byItHSYoQmGx9pWhSc9po+V6R9BEu5nD6Pug++ICXdw9xeatZKyyZ1nG+9Ade2GyU/0II4ExA==",
   "success": true,
-  "projectFilePath": "C:\\Drafts\\Drafts.App\\Drafts.App.Persistencia\\Drafts.App.Persistencia.csproj",
+  "projectFilePath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Persistencia\\Drafts.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -48,5 +48,12 @@
     "C:\\Users\\User\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché D:\\Repositorio\\Parking_Drafts\\Drafts.App.Persistencia\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

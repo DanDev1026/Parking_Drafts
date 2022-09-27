@@ -7,12 +7,14 @@
     <div class="imagenfondo"></div>
     <h2>login</h2>
 </div>
-<form>
+<form name="frmLogin" action=".\Clientes\List">
     <div class="login">
-        <input type="text" placeholder="*Usuario" /><br />
-        <input type="password" placeholder="*Password" /><br />
-        <input type="submit" value="Iniciar Sesion" /><br />
-        <a class="nav-link text-white" asp-area="" asp-page="/Clientes/List">*Registrate</a>
+        
+        <input type="text"  name="txtusuario" placeholder="*Usuario" /><br />
+        <input type="password" name="txtpass" placeholder="*Password" /><br />
+        <input type="submit" value="Iniciar Sesion" name="accion" onclick="return validacampos();" /><br />
+        <a href="#">*Registrate</a>
+
     </div>
 </form>
 <div class="reservar">
