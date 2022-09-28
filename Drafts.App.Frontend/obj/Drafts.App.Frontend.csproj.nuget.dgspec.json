@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj": {}
+    "C:\\Drafts\\Drafts.App\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj": {}
   },
   "projects": {
-    "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj": {
+    "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj",
         "projectName": "Drafts.App.Dominio",
-        "projectPath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj",
+        "projectPath": "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Dominio\\obj\\",
+        "outputPath": "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,8 +43,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -53,18 +52,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj": {
+    "C:\\Drafts\\Drafts.App\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj",
+        "projectUniqueName": "C:\\Drafts\\Drafts.App\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj",
         "projectName": "Drafts.App.Frontend",
-        "projectPath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj",
+        "projectPath": "C:\\Drafts\\Drafts.App\\Drafts.App.Frontend\\Drafts.App.Frontend.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Frontend\\obj\\",
+        "outputPath": "C:\\Drafts\\Drafts.App\\Drafts.App.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,11 +78,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj": {
-                "projectPath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj"
+              "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj": {
+                "projectPath": "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj"
               },
-              "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Persistencia\\Drafts.App.Persistencia.csproj": {
-                "projectPath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Persistencia\\Drafts.App.Persistencia.csproj"
+              "C:\\Drafts\\Drafts.App\\Drafts.App.Persistencia\\Drafts.App.Persistencia.csproj": {
+                "projectPath": "C:\\Drafts\\Drafts.App\\Drafts.App.Persistencia\\Drafts.App.Persistencia.csproj"
               }
             }
           }
@@ -125,8 +124,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -138,18 +136,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Persistencia\\Drafts.App.Persistencia.csproj": {
+    "C:\\Drafts\\Drafts.App\\Drafts.App.Persistencia\\Drafts.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Persistencia\\Drafts.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\Drafts\\Drafts.App\\Drafts.App.Persistencia\\Drafts.App.Persistencia.csproj",
         "projectName": "Drafts.App.Persistencia",
-        "projectPath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Persistencia\\Drafts.App.Persistencia.csproj",
+        "projectPath": "C:\\Drafts\\Drafts.App\\Drafts.App.Persistencia\\Drafts.App.Persistencia.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Persistencia\\obj\\",
+        "outputPath": "C:\\Drafts\\Drafts.App\\Drafts.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -164,8 +162,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj": {
-                "projectPath": "D:\\Repositorio\\Parking_Drafts\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj"
+              "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj": {
+                "projectPath": "C:\\Drafts\\Drafts.App\\Drafts.App.Dominio\\Drafts.App.Dominio.csproj"
               }
             }
           }
@@ -207,8 +205,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -217,7 +214,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
